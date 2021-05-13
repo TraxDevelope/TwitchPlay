@@ -1,5 +1,4 @@
 # TwitchPlay 1.0
-Want your viewers to play for you? Twitch Play is the solution.
 
 Hello everybody, today i created a Twitch Play script.
 Hope this helped you and have a nice day.
