@@ -1,4 +1,4 @@
-# TwitchPlay 1.0
+# TwitchPlays 1.0
 
 Hello everybody, today i created a Twitch Play script.
 Hope this helped you and have a nice day.
